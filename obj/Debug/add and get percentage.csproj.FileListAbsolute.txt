@@ -1,0 +1,7 @@
+E:\4th sem\Adv.programming\Programs\add and get percentage\bin\Debug\add and get percentage.exe.config
+E:\4th sem\Adv.programming\Programs\add and get percentage\bin\Debug\add and get percentage.exe
+E:\4th sem\Adv.programming\Programs\add and get percentage\bin\Debug\add and get percentage.pdb
+E:\4th sem\Adv.programming\Programs\add and get percentage\obj\Debug\add and get percentage.csproj.CoreCompileInputs.cache
+E:\4th sem\Adv.programming\Programs\add and get percentage\obj\Debug\add and get percentage.exe
+E:\4th sem\Adv.programming\Programs\add and get percentage\obj\Debug\add and get percentage.pdb
+E:\4th sem\Adv.programming\Programs\add and get percentage\obj\Debug\add and get percentage.csproj.AssemblyReference.cache
